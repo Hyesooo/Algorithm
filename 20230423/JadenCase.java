@@ -1,7 +1,3 @@
-package Level2;
-
-import java.util.Arrays;
-
 public class JadenCase {
     public String solution(String s) {
         StringBuilder sb = new StringBuilder(s);
