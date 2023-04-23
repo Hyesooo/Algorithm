@@ -18,9 +18,9 @@
 
 ## 문제 목록
 
-| 날짜 | 문제 링크 | 푼 사람 | 난이도 | 풀이 링크 |
-|:---:|:---:|:---:|:---:|:---:|
-| 2023-04-23 | [JadenCase 문자열만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951) | 김혜수 | Level 2 | [풀이 링크]() |
+| 날짜 | 문제 링크 | 푼 사람 | 난이도 |               풀이 링크                |
+|:---:|:---:|:---:|:---:|:----------------------------------:|
+| 2023-04-23 | [JadenCase 문자열만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951) | 김혜수 | Level 2 | [풀이 링크](./20230423/JadenCase.java) |
 
 
 ## 참고
